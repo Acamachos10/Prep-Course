@@ -1,0 +1,18 @@
+Variables: Una variable es como una cajita donde se guarda el valor de algun tipo de datos, en JavaScript se declara una variable de tres formas posbiles, las cuales son: var-const-let.
+
+String: Es un tipo de datos, el cual indica una cadena de caracteres y el cual siempre va dentro de unas comillas ya sean simples o dobles.
+
+Funciones: Es basicamente una agrupacion de codigos, que posteriormente se puede invocar y que esta misma de ejecute, cabe aclarar que una funcion debe de tener una entrada y devolver una salida, y para poder usar una funcion se debe definir primero para que luego pueda ser invocada.
+
+la forma en la que por lo general se escribe una funcion es declarar la palabra: function, a esta se debe darle un nombre unos (parentesis) y luego unas {llaves} todo lo que este dentro de las llaves es el codigo que vamos a trabajar, y todo lo que este dentro de esas llaves cuando se invoque la funcion es lo que va a ejecutar, se invoca una funcion solamente con el nombre que se le dio a la funcion y los parentesis.
+
+En pocas palabras las funciones nos permite ejecutar codigos y reusarlo cuantas veces queramos.
+
+    Argumentos: Son una variable que se declara dentro de una funcion, el cual tomara una valor cuando se invoque la funcion, cabe resaltar que los argumentos van separados por coma.
+
+    Return: Esta es una sentencia, la cual finaliza la ejecucion de la funcion y especifica un valor para ser devuelto a quien llama a la funcion. Cabe resaltar que las funciones pueden retornar una sola vez.
+
+if: Es un operador de control de flujo y comparacion, este nos permite agregar logica a nuestros codigos, el cual si se cumple con las condiciones dadas nos retorna si es true y sino nos retorna false.
+
+Booleano: Es un tipo de dato logico, recuerda que en la computacion todo es booleano, debido a que es a todo es una secuencia de unos y ceros, o false and true, es super importante comprender estos valores debido a que nos  ayudara a compreder la logica computacional y la forma que trabajan los condicionales en los lenguajes de programacion.
+
