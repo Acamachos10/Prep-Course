@@ -1,0 +1,10 @@
+For: Es un bucle el cual evalua una y otra vez las expresiones hasta que llegue al resultado que estamos esperado su sintaxis se escribe de la siguiente forma:
+
+for (let i = o (aqui se declara la variable i)     ; i < 10  (aqui se le da la condicion, en este caso i debe ser menor a 10)   ;i++  (aqui le decimos a i que se incremente "incrementamos la variable")    )
+
+
+&&: Este es un operador logico "AND" o en español lo conocemos como "y" el cual evalua todas las expresiones que coloquemos y si alguna de ella es falsa el resultado nos arrojara falso, si todas las expresiones son verdaderas el resultado nos arrojara verdadero.
+
+||: Este es el operador logico "OR" o en español "O" este evalua cada una de las expresiones y determina si una de las expresiones es true, si alguna de las expresiones es true, el resultado sera verdadero, si todas las expresiones son falsas nos aarroja un resultado false.
+
+!= Este operador logico eel operador "NOT" en español "NO"  este operador devolvera el valor booleano opuesto de lo que se espera y se escribe siempre antes de la expresion con un signo de exclamacion.
